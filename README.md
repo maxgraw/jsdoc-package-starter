@@ -1,4 +1,4 @@
-# Package Template
+# JsDoc with Typescript Package Template
 
 # Features
 - pnpm
