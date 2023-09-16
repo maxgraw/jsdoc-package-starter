@@ -1,7 +1,9 @@
 # JsDoc with Typescript Package Template
 
-# Features
+Type your stuff without writing Typescript.
+
+## Overview
 - pnpm
 - Typescript with JsDoc
 - changeset/cli
-- d.ts and d.ts.map file generation
+- d.ts and d.ts.map generation
