@@ -1,1 +1,1 @@
-# jsdoc-typescript-starter
+# Package Template
